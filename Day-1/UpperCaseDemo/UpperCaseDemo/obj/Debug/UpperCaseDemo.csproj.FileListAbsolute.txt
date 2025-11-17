@@ -1,8 +1,0 @@
-C:\Dotnet_Assignment\Day-1\UpperCaseDemo\UpperCaseDemo\bin\Debug\UpperCaseDemo.exe.config
-C:\Dotnet_Assignment\Day-1\UpperCaseDemo\UpperCaseDemo\bin\Debug\UpperCaseDemo.exe
-C:\Dotnet_Assignment\Day-1\UpperCaseDemo\UpperCaseDemo\bin\Debug\UpperCaseDemo.pdb
-C:\Dotnet_Assignment\Day-1\UpperCaseDemo\UpperCaseDemo\obj\Debug\UpperCaseDemo.csproj.AssemblyReference.cache
-C:\Dotnet_Assignment\Day-1\UpperCaseDemo\UpperCaseDemo\obj\Debug\UpperCaseDemo.csproj.CoreCompileInputs.cache
-C:\Dotnet_Assignment\Day-1\UpperCaseDemo\UpperCaseDemo\obj\Debug\UpperCaseDemo.exe
-C:\Dotnet_Assignment\Day-1\UpperCaseDemo\UpperCaseDemo\obj\Debug\UpperCaseDemo.pdb
-C:\Dotnet_Assignment\Day-1\UpperCaseDemo\UpperCaseDemo\obj\Debug\UpperCaseDemo.exe.config
