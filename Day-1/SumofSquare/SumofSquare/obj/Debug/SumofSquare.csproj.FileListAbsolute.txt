@@ -1,0 +1,7 @@
+C:\Dotnet_Assignment\Day-1\SumofSquare\SumofSquare\bin\Debug\SumofSquare.exe.config
+C:\Dotnet_Assignment\Day-1\SumofSquare\SumofSquare\bin\Debug\SumofSquare.exe
+C:\Dotnet_Assignment\Day-1\SumofSquare\SumofSquare\bin\Debug\SumofSquare.pdb
+C:\Dotnet_Assignment\Day-1\SumofSquare\SumofSquare\obj\Debug\SumofSquare.csproj.AssemblyReference.cache
+C:\Dotnet_Assignment\Day-1\SumofSquare\SumofSquare\obj\Debug\SumofSquare.csproj.CoreCompileInputs.cache
+C:\Dotnet_Assignment\Day-1\SumofSquare\SumofSquare\obj\Debug\SumofSquare.exe
+C:\Dotnet_Assignment\Day-1\SumofSquare\SumofSquare\obj\Debug\SumofSquare.pdb

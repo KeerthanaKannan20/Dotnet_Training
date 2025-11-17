@@ -1,0 +1,7 @@
+C:\Dotnet_Assignment\Day-1\PartialClass\PartialClass\bin\Debug\PartialClass.exe.config
+C:\Dotnet_Assignment\Day-1\PartialClass\PartialClass\bin\Debug\PartialClass.exe
+C:\Dotnet_Assignment\Day-1\PartialClass\PartialClass\bin\Debug\PartialClass.pdb
+C:\Dotnet_Assignment\Day-1\PartialClass\PartialClass\obj\Debug\PartialClass.csproj.AssemblyReference.cache
+C:\Dotnet_Assignment\Day-1\PartialClass\PartialClass\obj\Debug\PartialClass.csproj.CoreCompileInputs.cache
+C:\Dotnet_Assignment\Day-1\PartialClass\PartialClass\obj\Debug\PartialClass.exe
+C:\Dotnet_Assignment\Day-1\PartialClass\PartialClass\obj\Debug\PartialClass.pdb
