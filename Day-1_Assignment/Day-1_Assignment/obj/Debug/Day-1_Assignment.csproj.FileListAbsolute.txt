@@ -1,8 +1,0 @@
-C:\Dotnet_Assignment\Day-1_Assignment\Day-1_Assignment\bin\Debug\Day-1_Assignment.exe.config
-C:\Dotnet_Assignment\Day-1_Assignment\Day-1_Assignment\bin\Debug\Day-1_Assignment.exe
-C:\Dotnet_Assignment\Day-1_Assignment\Day-1_Assignment\bin\Debug\Day-1_Assignment.pdb
-C:\Dotnet_Assignment\Day-1_Assignment\Day-1_Assignment\obj\Debug\Day-1_Assignment.csproj.AssemblyReference.cache
-C:\Dotnet_Assignment\Day-1_Assignment\Day-1_Assignment\obj\Debug\Day-1_Assignment.csproj.CoreCompileInputs.cache
-C:\Dotnet_Assignment\Day-1_Assignment\Day-1_Assignment\obj\Debug\Day-1_Assignment.exe
-C:\Dotnet_Assignment\Day-1_Assignment\Day-1_Assignment\obj\Debug\Day-1_Assignment.pdb
-C:\Dotnet_Assignment\Day-1_Assignment\Day-1_Assignment\obj\Debug\Day-1_Assignment.exe.config

@@ -1,0 +1,12 @@
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\bin\Debug\net9.0\EmployeeRecord.deps.json
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\bin\Debug\net9.0\EmployeeRecord.dll
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\bin\Debug\net9.0\EmployeeRecord.pdb
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\obj\Debug\net9.0\EmployeeRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\obj\Debug\net9.0\EmployeeRecord.AssemblyInfoInputs.cache
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\obj\Debug\net9.0\EmployeeRecord.AssemblyInfo.cs
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\obj\Debug\net9.0\EmployeeRecord.csproj.CoreCompileInputs.cache
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\obj\Debug\net9.0\EmployeeRecord.sourcelink.json
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\obj\Debug\net9.0\EmployeeRecord.dll
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\obj\Debug\net9.0\refint\EmployeeRecord.dll
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\obj\Debug\net9.0\EmployeeRecord.pdb
+C:\Dotnet_Assignment\EmployeeRecord\EmployeeRecord\obj\Debug\net9.0\ref\EmployeeRecord.dll
