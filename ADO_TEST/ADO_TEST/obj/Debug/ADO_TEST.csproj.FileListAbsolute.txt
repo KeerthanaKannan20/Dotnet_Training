@@ -1,0 +1,7 @@
+C:\Dotnet_Assignment\ADO_TEST\ADO_TEST\bin\Debug\ADO_TEST.exe.config
+C:\Dotnet_Assignment\ADO_TEST\ADO_TEST\bin\Debug\ADO_TEST.exe
+C:\Dotnet_Assignment\ADO_TEST\ADO_TEST\bin\Debug\ADO_TEST.pdb
+C:\Dotnet_Assignment\ADO_TEST\ADO_TEST\obj\Debug\ADO_TEST.csproj.AssemblyReference.cache
+C:\Dotnet_Assignment\ADO_TEST\ADO_TEST\obj\Debug\ADO_TEST.csproj.CoreCompileInputs.cache
+C:\Dotnet_Assignment\ADO_TEST\ADO_TEST\obj\Debug\ADO_TEST.exe
+C:\Dotnet_Assignment\ADO_TEST\ADO_TEST\obj\Debug\ADO_TEST.pdb

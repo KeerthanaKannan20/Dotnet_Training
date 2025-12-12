@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet_Assignment\\ADO_TEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74A8D488-D1F2-48E3-8D1F-BE67FCF4DD26}|ADO_TEST\\ADO_TEST.csproj|C:\\Dotnet_Assignment\\ADO_TEST\\ado_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A8D488-D1F2-48E3-8D1F-BE67FCF4DD26}|ADO_TEST\\ADO_TEST.csproj|solutionrelative:ado_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A8D488-D1F2-48E3-8D1F-BE67FCF4DD26}|ADO_TEST\\ADO_TEST.csproj|c:\\dotnet_assignment\\ado_test\\ado_test\\disconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A8D488-D1F2-48E3-8D1F-BE67FCF4DD26}|ADO_TEST\\ADO_TEST.csproj|solutionrelative:ado_test\\disconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A8D488-D1F2-48E3-8D1F-BE67FCF4DD26}|ADO_TEST\\ADO_TEST.csproj|c:\\dotnet_assignment\\ado_test\\ado_test\\connected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A8D488-D1F2-48E3-8D1F-BE67FCF4DD26}|ADO_TEST\\ADO_TEST.csproj|solutionrelative:ado_test\\connected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisConnected.cs",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ADO_TEST\\ADO_TEST\\DisConnected.cs",
+              "RelativeDocumentMoniker": "ADO_TEST\\DisConnected.cs",
+              "ToolTip": "C:\\Dotnet_Assignment\\ADO_TEST\\ADO_TEST\\DisConnected.cs",
+              "RelativeToolTip": "ADO_TEST\\DisConnected.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:28:54.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connected.cs",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ADO_TEST\\ADO_TEST\\Connected.cs",
+              "RelativeDocumentMoniker": "ADO_TEST\\Connected.cs",
+              "ToolTip": "C:\\Dotnet_Assignment\\ADO_TEST\\ADO_TEST\\Connected.cs",
+              "RelativeToolTip": "ADO_TEST\\Connected.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAowG4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T09:22:27.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ADO_TEST\\ADO_TEST\\Program.cs",
+              "RelativeDocumentMoniker": "ADO_TEST\\Program.cs",
+              "ToolTip": "C:\\Dotnet_Assignment\\ADO_TEST\\ADO_TEST\\Program.cs",
+              "RelativeToolTip": "ADO_TEST\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T09:07:36.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
