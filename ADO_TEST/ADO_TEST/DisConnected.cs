@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ADO.NET
+namespace ADO_TEST
 {
     internal class DisConnected
     {
