@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ADO.NET_Assign
+namespace ADO.NET
 {
     internal class DisConnected
     {
