@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Selected Item</title>
+    <script src="jquery.js"></script>
+</head>
+<body>
+
+<ul id="myList">
+    <li>CSHARP</li>
+    <li>SQL</li>
+    <li>ADO</li>
+</ul>
+
+<h3>Selected Item:</h3>
+<div id="output"></div>
+
+<script>
+    $(document).ready(function() {
+        $("#myList").hide();
+        var selected = $("#myList li").eq(1).text();
+        $("#output").text(selected);
+    });
+</script>
+
+</body>
+</html>

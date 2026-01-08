@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Index to List Items</title>
+    <script src="jquery.js"></script>
+</head>
+<body>
+    <h2>Add index</h2>
+<ul>
+    <li>CSHARP</li>
+    <li>SQL</li>
+    <li>ADO</li>
+    <li>TESTING</li>
+    <li>WEB</li>
+</ul>
+
+<script>
+    $(document).ready(function() {
+        $("li").each(function(index) {
+            $(this).prepend(index + " ");
+        });
+    });
+</script>
+
+</body>
+</html>

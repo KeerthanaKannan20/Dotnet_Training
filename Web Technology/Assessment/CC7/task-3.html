@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Task3 - Click Event</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: none;
+            margin-top: 50px;
+            background-color: #f0f8ff;
+        }
+
+        h2 {
+            color: #333;
+            margin-bottom: 30px;
+        }
+
+        #my-button {
+            background-color: #bb4fb4;
+            color: white;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        #my-button:hover {
+            background-color: #46bade;
+        }
+    </style>
+</head>
+<body>
+    <h2>Click Event</h2>
+    <button id="my-button">Click Me</button>
+
+    <script>
+        const button = document.getElementById("my-button");
+        button.onclick = function() {
+            console.log("Button was clicked! Welcome guyss!");
+            alert("Button was clicked!");
+        };
+    </script>
+</body>
+</html>

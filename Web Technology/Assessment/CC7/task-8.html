@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Append on Input Change</title>
+    <script src="jquery.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+
+        h2 {
+            color: #333;
+            text-align: none;
+        }
+
+        input[type="text"] {
+            width: 300px;
+            padding: 8px 12px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        #messageContainer p {
+            background-color: #e0f7fa;
+            color: #00796b;
+            padding: 8px 12px;
+            border-radius: 5px;
+            margin: 5px 0;
+            width: fit-content;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Append on Input Changes</h2>
+
+<input type="text" id="myInput" placeholder="Type something ">
+
+<div id="messageContainer"></div>
+
+<script>
+    $(document).ready(function() {
+        $("#myInput").change(function() {
+            $("#messageContainer").append("<p>Input value changed!</p>");
+        });
+    });
+</script>
+
+</body>
+</html>

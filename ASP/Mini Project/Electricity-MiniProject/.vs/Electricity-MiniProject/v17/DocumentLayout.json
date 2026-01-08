@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|c:\\dotnet_assignment\\asp\\mini project\\electricity-miniproject\\electricity-miniproject\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\showingthebill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\showingthebill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\showingthebill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\showingthebill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\addbilling.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\addbilling.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\addbilling.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\addbilling.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\addbilling.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\addbilling.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\loginform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\loginform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\electricity-miniproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E66BFD93-2BDD-4D8F-BB38-94176C408FF9}|Electricity-MiniProject\\Electricity-MiniProject.csproj|solutionrelative:electricity-miniproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowingTheBill.aspx.cs",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\ShowingTheBill.aspx.cs",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\ShowingTheBill.aspx.cs",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\ShowingTheBill.aspx.cs",
+              "RelativeToolTip": "Electricity-MiniProject\\ShowingTheBill.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:55:02.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowingTheBill.aspx",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\ShowingTheBill.aspx",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\ShowingTheBill.aspx",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\ShowingTheBill.aspx",
+              "RelativeToolTip": "Electricity-MiniProject\\ShowingTheBill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-08T04:54:08.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.aspx",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\LoginForm.aspx",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\LoginForm.aspx",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\LoginForm.aspx",
+              "RelativeToolTip": "Electricity-MiniProject\\LoginForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T12:45:52.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.aspx.cs",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\LoginForm.aspx.cs",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\LoginForm.aspx.cs",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\LoginForm.aspx.cs",
+              "RelativeToolTip": "Electricity-MiniProject\\LoginForm.aspx.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:38:44.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\Logout.aspx.cs",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\Logout.aspx.cs",
+              "RelativeToolTip": "Electricity-MiniProject\\Logout.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:36:11.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\Logout.aspx",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\Logout.aspx",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\Logout.aspx",
+              "RelativeToolTip": "Electricity-MiniProject\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T13:34:55.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElectricityBoard.cs",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\ElectricityBoard.cs",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\ElectricityBoard.cs",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\ElectricityBoard.cs",
+              "RelativeToolTip": "Electricity-MiniProject\\ElectricityBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:40:58.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElectricityBill.cs",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\ElectricityBill.cs",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\ElectricityBill.cs",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\ElectricityBill.cs",
+              "RelativeToolTip": "Electricity-MiniProject\\ElectricityBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:39:21.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddBilling.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\AddBilling.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\AddBilling.aspx.designer.cs",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\AddBilling.aspx.designer.cs",
+              "RelativeToolTip": "Electricity-MiniProject\\AddBilling.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:42:16.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddBilling.aspx.cs",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\AddBilling.aspx.cs",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\AddBilling.aspx.cs",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\AddBilling.aspx.cs",
+              "RelativeToolTip": "Electricity-MiniProject\\AddBilling.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:35:32.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddBilling.aspx",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\AddBilling.aspx",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\AddBilling.aspx",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\AddBilling.aspx",
+              "RelativeToolTip": "Electricity-MiniProject\\AddBilling.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-07T12:48:47.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\LoginForm.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\LoginForm.aspx.designer.cs",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\LoginForm.aspx.designer.cs",
+              "RelativeToolTip": "Electricity-MiniProject\\LoginForm.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:20:12.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\Web.config",
+              "RelativeDocumentMoniker": "Electricity-MiniProject\\Web.config",
+              "ToolTip": "C:\\Dotnet_Assignment\\ASP\\Mini Project\\Electricity-MiniProject\\Electricity-MiniProject\\Web.config",
+              "RelativeToolTip": "Electricity-MiniProject\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-07T12:42:29.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
