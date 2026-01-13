@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Question_2.Models.Movie>
+
+<h2>
+    @if (ViewBag.Year != null)
+    {
+        @:Movies Released in Year @ViewBag.Year
+    }
+    else
+    {
+        @:Search Movies by Year
+    }
+</h2>
+
+@using (Html.BeginForm("MoviesByYear", "Movies", FormMethod.Get))
+{
+    <input type="number" name="year" placeholder="Enter Year" required style="padding:5px;" />
+    <button type="submit" style="padding:5px 10px;">Search</button>
+}
+
+@if (Model != null && Model.Any())
+{
+    <ul>
+        @foreach (var m in Model)
+        {
+            <li>@m.Moviename (@m.DateofRelease.ToString("yyyy-MM-dd"))</li>
+        }
+    </ul>
+}
+else if (ViewBag.Year != null)
+{
+    <p>No movies found for the year @ViewBag.Year.</p>
+}
+else if (ViewBag.Message != null)
+{
+    <p>@ViewBag.Message</p>
+}

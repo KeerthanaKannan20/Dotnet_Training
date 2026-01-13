@@ -1,0 +1,29 @@
+﻿@model Question_2.Models.Movie
+
+<h2>Create New Movie</h2>
+
+@using (Html.BeginForm())
+{
+    <div style="width:400px;margin:20px auto;padding:20px;border:1px solid #ccc;border-radius:8px;background:#f9f9f9;">
+        <div style="margin-bottom:10px;">
+            <label>Movie Name:</label><br />
+            @Html.TextBoxFor(m => m.Moviename, new { style = "width:100%;padding:5px;" })
+            @Html.ValidationMessageFor(m => m.Moviename)
+        </div>
+
+        <div style="margin-bottom:10px;">
+            <label>Director Name:</label><br />
+            @Html.TextBoxFor(m => m.DirectorName, new { style = "width:100%;padding:5px;" })
+            @Html.ValidationMessageFor(m => m.DirectorName)
+        </div>
+
+        <div style="margin-bottom:10px;">
+            <label>Date of Release:</label><br />
+            @Html.TextBoxFor(m => m.DateofRelease, "{0:yyyy-MM-dd}", new { type = "date", style = "width:100%;padding:5px;" })
+            @Html.ValidationMessageFor(m => m.DateofRelease)
+        </div>
+
+        <button type="submit" style="padding:8px 15px;background:#3498db;color:white;border:none;border-radius:4px;">Create</button>
+        @Html.ActionLink("Back to List", "Index", null, new { style = "margin-left:10px;" })
+    </div>
+}

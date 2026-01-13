@@ -1,0 +1,21 @@
+﻿@model Question_1.Models.Customer
+
+<h2 style="text-align:center;">Customer Details (Order ID: 10248)</h2>
+
+@if (Model != null)
+{
+    <div style="width:400px; margin:20px auto; padding:15px; border:1px solid #ccc; border-radius:6px; background:#f9f9f9; font-family:Arial, sans-serif;">
+        <p><b>Customer ID:</b> @Model.CustomerID</p>
+        <p><b>Company Name:</b> @Model.CompanyName</p>
+        <p><b>Contact Name:</b> @Model.ContactName</p>
+        <p><b>Contact Title:</b> @Model.ContactTitle</p>
+        <p><b>Address:</b> @Model.Address</p>
+        <p><b>City:</b> @Model.City</p>
+        <p><b>Postal Code:</b> @Model.PostalCode</p>
+        <p><b>Country:</b> @Model.Country</p>
+    </div>
+}
+else
+{
+    <p style="text-align:center; color:red; font-weight:bold;">No customer found for Order ID 10248.</p>
+}
